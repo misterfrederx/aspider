@@ -2,7 +2,7 @@
 
 This is an extract of a project in which I used Scrapy integrated with Django
 
-#Django
+#@@ Django
 
 At the end of settings.py we have these lines, to specify the django settings and to setup django itself
 
